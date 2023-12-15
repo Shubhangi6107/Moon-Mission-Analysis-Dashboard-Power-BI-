@@ -18,7 +18,7 @@ The foundation of the analysis lies in the "moonlanding" Excel file, offering in
 ## Tools
 The symphony of data unfolds with the harmonious use of:
 
-- **Excel. A pivotal tool for data cleaning and initial processing, ensuring data integrity.
+- **Excel:**. A pivotal tool for data cleaning and initial processing, ensuring data integrity.
 - **Power BI:** The creative force driving dashboard creation, visualization, and report generation. Various visualizations, including KPIs, bar charts, and column charts, breathe life into the data.
 
 ## Data Cleaning/Preparation
